@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.edu{
+  position:relative;
+  left:570px;
+}
+
+.the-top-container {
+  background-color: skyblue;
+  position: relative;
+  padding-top: 100px;
+}
+
+.the-middle-container {
+
+}
+
+.the-bottom-container {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.program{
+  position : relative;
+  left : 550px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
