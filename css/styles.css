@@ -18,8 +18,8 @@ h3 {
 }
 
 .edu{
-  position:relative;
-  left:570px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .the-top-container {
@@ -41,8 +41,8 @@ h3 {
 }
 
 .program{
-  position : relative;
-  left : 550px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .top-cloud {
